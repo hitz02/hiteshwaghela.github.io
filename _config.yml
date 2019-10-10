@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "Hitesh Waghela"
-  avatar           : "/images/marine_drive.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/hitesh_photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Scientist"
   location         : "Mumbai, India"
   email            : "hiteshw.02@gmail.com"
